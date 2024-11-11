@@ -32,7 +32,7 @@ This project involves several steps:
 
 🔹𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰 - Shows key metrics by Customers and Products using KPIs like Forecast Accuracy, Net Error and Absolute Error.
 
-🔹𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰 - A high-level overview, combining important KPIs and metrics from each view, offering stakeholders a comprehensive overview of the company’s performance.
+🔹𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰 - A high-level overview, combining important KPIs and metrics from each view, offering stakeholders a comprehensive overview of the company’s performance.(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Executive%20view.png)
 
 
 **Tools Used :**
