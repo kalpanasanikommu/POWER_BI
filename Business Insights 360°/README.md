@@ -63,4 +63,4 @@ This project involves several steps:
 
 **8.Automated Data Refresh Setup:** Configured automatic data refresh through a gateway to ensure up-to-date information in reports without manual intervention.
 
-**Dash board Link:** https://app.powerbi.com/groups/me/reports/73a623b7-d1b1-4840-a648-b6cc4ad2f890/ebc2fcfacc7cebe70ea6?bookmarkGuid=6369b47e-e36a-405a-b460-097cbc77cd47&bookmarkUsage=1&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&portalSessionId=e899f3ad-44ac-43bf-aff3-9af92b3e6c1b&fromEntryPoint=export
+**Dash board Link:** https://app.powerbi.com/view?r=eyJrIjoiMDU4MGZlMGEtZWM4My00NWFkLWE4MDUtYzc1ZmJmODBjNjBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
