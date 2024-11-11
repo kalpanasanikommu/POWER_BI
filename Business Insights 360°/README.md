@@ -22,7 +22,7 @@ This project involves several steps:
 
 **Building Dashboard :**
 
-🔹𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞 - The homepage I developed includes intuitive navigation buttons, enabling users to access five primary views, as well as additional sections for information and support.
+🔹𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞 - The homepage I developed includes intuitive navigation buttons, enabling users to access five primary views, as well as additional sections for information and support.(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Executive%20view.png)
 
 🔹𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰 - Visuals showing Profit & Loss Statement, Net sales Performance over time, and KPIs like Gross Margin (GM) %, Net Sales (NS) %, Net Profit %.
 
