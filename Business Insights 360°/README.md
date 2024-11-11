@@ -22,16 +22,17 @@ This project involves several steps:
 
 **Building Dashboard :**
 
-🔹𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞 - The homepage I developed includes intuitive navigation buttons, enabling users to access five primary views, as well as additional sections for information and support.(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Executive%20view.png)
+🔹𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞 - The homepage I developed includes intuitive navigation buttons, enabling users to access five primary views, as well as additional sections for information and support.
 
 🔹𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰 - Visuals showing Profit & Loss Statement, Net sales Performance over time, and KPIs like Gross Margin (GM) %, Net Sales (NS) %, Net Profit %.
 (https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Finance%20view.png)
 
 🔹𝐒𝐚𝐥𝐞𝐬 𝐕𝐢𝐞𝐰 - Visuals focusing on Product & Customer Performance influenced by NS, GM%.(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Sales_View.png)
 
-🔹𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰 - Analyzes Region/ Market/ Customer and Product Performance by tracking NS, GM% and Net Profit %.
+🔹𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰 - Analyzes Region/ Market/ Customer and Product Performance by tracking NS, GM% and Net Profit %.(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Executive%20view.png)
 
 🔹𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰 - Shows key metrics by Customers and Products using KPIs like Forecast Accuracy, Net Error and Absolute Error.
+(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Supply%20Chain_View.png)
 
 🔹𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰 - A high-level overview, combining important KPIs and metrics from each view, offering stakeholders a comprehensive overview of the company’s performance.(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Executive%20view.png)
 
