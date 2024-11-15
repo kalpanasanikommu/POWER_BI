@@ -26,6 +26,9 @@ This project involves several steps:
 
 🔹𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞 - The homepage I developed includes intuitive navigation buttons, enabling users to access five primary views, as well as additional sections for information and support.
 
+![Home BI 360](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/Business%20Insights%20360%C2%B0/Home_BI%20360.png)
+
+
 🔹𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰 - Visuals showing Profit & Loss Statement, Net sales Performance over time, and KPIs like Gross Margin (GM) %, Net Sales (NS) %, Net Profit %.
 (https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Finance%20view.png)
 
