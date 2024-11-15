@@ -19,10 +19,12 @@ This project involves several steps:
 🔸Building interactive dashboards.
 
 🔸Regularly checking data and incorporating stakeholder feedback for ongoing improvements.
+## **Data Model:**
+![Data Model BI 360](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/Business%20Insights%20360%C2%B0/Data%20Model_BI%20360.png)
 
 **Building Dashboard :**
 
-🔹𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞 - The homepage I developed includes intuitive navigation buttons, enabling users to access five primary views, as well as additional sections for information and support.(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Business_Insights360%C2%B0_Home%20Page.png)
+🔹𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞 - The homepage I developed includes intuitive navigation buttons, enabling users to access five primary views, as well as additional sections for information and support.
 
 🔹𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰 - Visuals showing Profit & Loss Statement, Net sales Performance over time, and KPIs like Gross Margin (GM) %, Net Sales (NS) %, Net Profit %.
 (https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Finance%20view.png)
