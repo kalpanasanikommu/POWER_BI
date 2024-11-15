@@ -30,9 +30,12 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![Hospitality Data Model](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/AtliQ%20grands%20Hospitality%20Analysis/Hospitality_Data%20Model.png)
 
 
-**Home Page**
+## **Home Page**
 
-**Overall Analysis**
+![Home Page](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/AtliQ%20grands%20Hospitality%20Analysis/Home%20page.png)
+
+
+## **Overall Analysis**
 
 **Revenue Basis Analysis**
 
