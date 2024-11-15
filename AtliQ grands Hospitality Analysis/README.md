@@ -37,6 +37,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## **Overall Analysis**
 
+![Overall Analysis](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/AtliQ%20grands%20Hospitality%20Analysis/Overall%20Analysis.png)
+
+
 **Revenue Basis Analysis**
 
 **Key Insights**
