@@ -68,6 +68,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## **Learnt things from this project**
 
 1.Learnt, how to use bookmarks and selection for different purposes. 
+
 2.Tried using color palette and stick with that colors throughout the dashboard (https://colorhunt.co/palette/004225f5f5dcffb000ffcf9d)
+
 3.Using Buttons for pagenavigation and creating bookmarks.
+
 4.README.md file Editings.
