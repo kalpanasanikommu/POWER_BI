@@ -34,7 +34,10 @@ This project involves several steps:
 ![Finance View](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/Business%20Insights%20360%C2%B0/Finance%20View.png)
 
 
-🔹𝐒𝐚𝐥𝐞𝐬 𝐕𝐢𝐞𝐰 - Visuals focusing on Product & Customer Performance influenced by NS, GM%.(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Sales_View.png)
+🔹𝐒𝐚𝐥𝐞𝐬 𝐕𝐢𝐞𝐰 - Visuals focusing on Product & Customer Performance influenced by NS, GM%.
+
+![Sales View](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/Business%20Insights%20360%C2%B0/sales%20view.png)
+
 
 🔹𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰 - Analyzes Region/ Market/ Customer and Product Performance by tracking NS, GM% and Net Profit %.(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Executive%20view.png)
 
