@@ -48,7 +48,9 @@ This project involves several steps:
 ![Supply Chain View](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/Business%20Insights%20360%C2%B0/Supply%20chain%20view.png)
 
 
-🔹𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰 - A high-level overview, combining important KPIs and metrics from each view, offering stakeholders a comprehensive overview of the company’s performance.(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Executive%20view.png)
+🔹𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰 - A high-level overview, combining important KPIs and metrics from each view, offering stakeholders a comprehensive overview of the company’s performance.
+
+![Executive View](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/Business%20Insights%20360%C2%B0/Executive%20view.png)
 
 
 **Tools Used :**
