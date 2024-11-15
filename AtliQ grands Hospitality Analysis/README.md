@@ -22,6 +22,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 **Provided Mock up Dashboard**
 
+![Mock Up Dashboard](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/AtliQ%20grands%20Hospitality%20Analysis/mock%20up%20dashboard_atliq%20grands.png)
+
+
 **Data Model**
 
 **Home Page**
