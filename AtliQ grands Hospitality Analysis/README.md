@@ -40,9 +40,34 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![Overall Analysis](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/AtliQ%20grands%20Hospitality%20Analysis/Overall%20Analysis.png)
 
 
-###**Revenue Basis Analysis**
+### **Revenue Basis Analysis**
 
 ![Revenue Basis Analysis](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/AtliQ%20grands%20Hospitality%20Analysis/Revenue%20Basis%20Analysis.png)
 
 
 **Key Insights**
+
+![Info](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/AtliQ%20grands%20Hospitality%20Analysis/Info.png)
+
+💠Mumbai generates the highest revenue ($ 669 M) followed by Bangalore, Hyderabad and Delhi
+
+💠RT2 Room category generates the highest revenue ($ 560 M) followed by RT3,RT4 AND RT1.
+
+💠Elite type rooms has the most booking and as well higher cancellation rate 
+
+💠The highest number of hotel bookings were made through Makeyourtrip, generating a revenue of $340.83 M from this platform
+
+💠AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue.
+
+💠AtliQ Bay has the highest occupancy of 66%
+
+💠Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+
+💠AtliQ lost around 298.8 Million in cancellation
+
+## **Learnt things from this project**
+
+1.Learnt, how to use bookmarks and selection for different purposes. 
+2.Tried using color palette and stick with that colors throughout the dashboard (https://colorhunt.co/palette/004225f5f5dcffb000ffcf9d)
+3.Using Buttons for pagenavigation and creating bookmarks.
+4.README.md file Editings.
