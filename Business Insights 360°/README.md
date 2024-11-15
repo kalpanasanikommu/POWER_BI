@@ -39,7 +39,9 @@ This project involves several steps:
 ![Sales View](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/Business%20Insights%20360%C2%B0/sales%20view.png)
 
 
-🔹𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰 - Analyzes Region/ Market/ Customer and Product Performance by tracking NS, GM% and Net Profit %.(https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Executive%20view.png)
+🔹𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰 - Analyzes Region/ Market/ Customer and Product Performance by tracking NS, GM% and Net Profit %.
+
+![Marketing View](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/Business%20Insights%20360%C2%B0/Marketing%20view.png)
 
 🔹𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰 - Shows key metrics by Customers and Products using KPIs like Forecast Accuracy, Net Error and Absolute Error.
 (https://github.com/kalpanasanikommu/POWER_BI/blob/main/Business%20Insights%20360%C2%B0/Supply%20Chain_View.png)
