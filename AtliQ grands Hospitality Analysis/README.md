@@ -1,5 +1,8 @@
 ## **AtliQ Grands Hospitality Analysis**
 
+ **Live Dasboard:** [Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiOWQ0Nzc0ZDYtYzg3ZS00NTg3LWI3MGEtNDY0NjI4MTU3ZmU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 **Domain:**  Hospitality 
 
 **Function:** Revenue
