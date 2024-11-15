@@ -27,6 +27,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 **Data Model**
 
+![Hospitality Data Model](https://raw.githubusercontent.com/kalpanasanikommu/POWER_BI/main/AtliQ%20grands%20Hospitality%20Analysis/Hospitality_Data%20Model.png)
+
+
 **Home Page**
 
 **Overall Analysis**
