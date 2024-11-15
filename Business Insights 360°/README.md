@@ -63,4 +63,5 @@ This project involves several steps:
 
 **8.Automated Data Refresh Setup:** Configured automatic data refresh through a gateway to ensure up-to-date information in reports without manual intervention.
 
-**Dash board Link:** https://app.powerbi.com/view?r=eyJrIjoiNDE0YjdlZGYtZWFiZC00MDA4LTlhZjAtZGFmMmI1OTM0ZjBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+**Dash board Link:** [BI 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDE0YjdlZGYtZWFiZC00MDA4LTlhZjAtZGFmMmI1OTM0ZjBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
