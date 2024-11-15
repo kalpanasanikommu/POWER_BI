@@ -1,4 +1,4 @@
-**AtliQ Hospitality Grands Analysis**
+## **AtliQ Grands Hospitality Analysis**
 
 **Domain:**  Hospitality 
 
